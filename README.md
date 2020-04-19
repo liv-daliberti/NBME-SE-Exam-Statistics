@@ -31,3 +31,9 @@ Department of Medicine <br />
 MedStar Georgetown University Hospital <br />
 3800 Reservoir Rd, NW  <br />
 Washington, DC 20007 <br />
+
+# Citation
+
+If you use any of this code, please cite our publication in (article - linked when released)
+
+(Add citation When Released)
