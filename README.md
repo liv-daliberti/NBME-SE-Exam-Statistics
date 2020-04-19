@@ -8,30 +8,26 @@ The datasets generated and/or analyzed during the current study are not publicly
 
 # Authors
 
-Samuel A. Kareff, MD, MPH (corresponding author) \n
-Samuel.a.kareff@gunet.georgetown.edu \n
-Department of Medicine \n
-MedStar Georgetown University Hospital \n
-3800 Reservoir Rd, NW  \n
-Washington, DC 20007 \n
-+1 (561) 305-1062 \n
-ORC-ID: 0000-0001-7431-1221 \n
-
-\n
-
-Olivia d’Aliberti, MS \n
-ogd3@georgetown.edu \n
-Department of Mathematics and Statistics \n
-Georgetown University \n
-Washington, DC 20007 \n
-+1 (248) 462-3537 \n
-ORC-ID: 0000-0002-3139-5960 \n
-
-\n 
-
-Nikki Duong, MD \n
-Nduong91@gmail.com \n
-Department of Medicine \n
-MedStar Georgetown University Hospital \n
-3800 Reservoir Rd, NW  \n
-Washington, DC 20007 \n
+Samuel A. Kareff, MD, MPH (corresponding author) <br />
+Samuel.a.kareff@gunet.georgetown.edu <br />
+Department of Medicine <br />
+MedStar Georgetown University Hospital <br />
+3800 Reservoir Rd, NW <br />
+Washington, DC 20007 <br />
++1 (561) 305-1062 <br />
+ORC-ID: 0000-0001-7431-1221 <br />
+<br />
+Olivia d’Aliberti, MS <br />
+ogd3@georgetown.edu <br />
+Department of Mathematics and Statistics <br />
+Georgetown University <br />
+Washington, DC 20007 <br />
++1 (248) 462-3537 <br />
+ORC-ID: 0000-0002-3139-5960 <br />
+<br />
+Nikki Duong, MD <br />
+Nduong91@gmail.com <br />
+Department of Medicine <br />
+MedStar Georgetown University Hospital <br />
+3800 Reservoir Rd, NW  <br />
+Washington, DC 20007 <br />
